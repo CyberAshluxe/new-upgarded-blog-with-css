@@ -1,0 +1,46 @@
+/* *{ */
+
+body{
+    background-color: bisque;
+    margin: 200px;
+}
+#head{
+    font-weight: 200;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: xx-large;
+    margin-bottom: 10px;
+
+}
+button{
+    background-color: aqua;
+    width: 100px;
+    height: 40px;
+    border-radius: 30px;
+    margin-bottom: 20px;
+
+}
+#overview{
+    color: crimson;
+    text-decoration:wavy;
+}
+#writeup{
+    overflow: auto;
+}
+#more{
+    float: left;
+    width: 60%;
+}
+#okay{
+    float: right;
+    width: 40%;
+}
+#table{
+    background-color: rgb(161, 219, 190);
+    border: transparent;
+    border-radius: 10px;
+    border-style: solid;
+    width: 400px;
+    height: 350px;
+    line-height: 1.4;
+}
+
